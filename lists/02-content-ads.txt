@@ -1,0 +1,7 @@
+# Batch 2: PatchWall, content rows, sponsored rows, partner auto-installs (from examples/xiaomi-mitv-axso0)
+com.mitv.tvhome.atv
+com.xm.webcontent
+com.xiaomi.floatingframe
+com.google.android.tvrecommendations
+com.google.android.leanbacklauncher.recommendations
+android.autoinstalls.config.xioami.dangal

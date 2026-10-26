@@ -1,0 +1,6 @@
+# Local only: upstream clone, the TV's backups and screenshots, build tools
+cleanyourtv/
+backup/
+shots/
+toolchain/
+*.apk

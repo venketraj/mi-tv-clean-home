@@ -1,0 +1,4 @@
+# Batch 3: Xiaomi background services (update service is a personal choice, not here)
+com.xiaomi.mitv.tvmanager
+com.xiaomi.mitv.handbook
+com.xiaomo.tv.milegal

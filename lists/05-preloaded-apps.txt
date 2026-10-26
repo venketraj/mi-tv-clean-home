@@ -1,0 +1,7 @@
+# Batch 5: preloaded system apps Venket doesn't use (disabled, not uninstalled: they are system packages)
+com.xiaomi.mimusic2
+com.google.android.play.games
+com.google.android.videos                   # Play Movies & TV
+com.mitv.gallery                            # Mi Gallery; Media Player still opens USB photos
+com.google.android.youtube.tvmusic          # YouTube Music
+com.netflix.ninja                           # Netflix

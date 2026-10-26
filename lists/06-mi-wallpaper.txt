@@ -1,0 +1,2 @@
+# Batch 6: Mi screensaver/wallpaper (MiDream). Google's Ambient screensaver (backdrop) stays.
+com.mitv.dream
